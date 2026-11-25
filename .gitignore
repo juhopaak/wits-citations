@@ -5,3 +5,6 @@ graphs/*
 layouts/*
 plots/*
 xlsx/*
+annotation/*.xlsx
+annotation/*.zip
+annotation/thesis_files/*
