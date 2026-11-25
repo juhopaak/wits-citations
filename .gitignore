@@ -6,5 +6,8 @@ layouts/*
 plots/*
 xlsx/*
 annotation/*.xlsx
+annotation/*.csv
 annotation/*.zip
 annotation/thesis_files/*
+annotation/.ipynb_checkpoints/*
+annotation/.ipynb_checkpoints/create_examples-checkpoint.ipynb
